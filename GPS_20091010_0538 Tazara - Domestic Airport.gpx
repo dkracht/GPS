@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Colorado 300" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtension/v1/TrackPointExtensionv1.xsd">
+<metadata><link href="http://www.garmin.com"><text>Garmin International</text></link><time>2009-10-13T04:55:39Z</time></metadata>
+<trk><name>2009-10-10 033626 Tazara - Domestic Airport</name>
+<trkseg>
+<trkpt lat="-6.850239" lon="39.243380"><ele>95.79</ele><time>2009-10-10T05:38:28Z</time></trkpt>
+<trkpt lat="-6.850239" lon="39.243380"><ele>1660.33</ele><time>2009-10-10T05:38:29Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:atemp>26.2</gpxtpx:atemp></gpxtpx:TrackPointExtension></extensions></trkpt>
+<trkpt lat="-6.850239" lon="39.243380"><ele>1660.33</ele><time>2009-10-10T05:38:30Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:atemp>26.2</gpxtpx:atemp></gpxtpx:TrackPointExtension></extensions></trkpt>
+<trkpt lat="-6.872901" lon="39.203457"><ele>1660.33</ele><time>2009-10-10T05:38:54Z</time><extensions><gpxtpx:TrackPointExtension><gpxtpx:atemp>26.2</gpxtpx:atemp></gpxtpx:TrackPointExtension></extensions></trkpt>
+</trkseg></trk>
+</gpx>
