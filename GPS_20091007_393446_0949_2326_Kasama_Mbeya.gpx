@@ -1563,16 +1563,6 @@
 			<time>2009-10-07T12:18:48Z</time>
 			<extensions><gpxtpx:TrackPointExtension><gpxtpx:atemp>31.5</gpxtpx:atemp></gpxtpx:TrackPointExtension></extensions>
 		</trkpt>
-	</trkseg>
-</trk>
-<trk>
-	<name>2009-10-08 393446</name>
-	<trkseg>
-		<trkpt lat="-9.94006" lon="31.261435">
-			<ele>1371.94</ele>
-			<time>2009-10-07T12:18:48Z</time>
-			<extensions><gpxtpx:TrackPointExtension><gpxtpx:atemp>31.5</gpxtpx:atemp></gpxtpx:TrackPointExtension></extensions>
-		</trkpt>
 		<trkpt lat="-9.934546" lon="31.313434">
 			<ele>1370.98</ele>
 			<time>2009-10-07T12:25:28Z</time>
