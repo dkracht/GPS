@@ -6,6 +6,38 @@
 		<text>Garmin International</text>
 	</link>
 </metadata>
+<wpt lat="-23.1133461" lon="26.8342781">
+	<time>2010-04-23T14:42:40Z</time>
+	<name>Mahalapye</name>
+	<cmt>Mahalapye</cmt>
+	<desc>Mahalapye</desc>
+	<sym>Waypoint</sym>
+	<extensions><gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"><gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode></gpxx:WaypointExtension></extensions>
+</wpt>
+<wpt lat="-20.4897034" lon="27.805245">
+	<name>Plumtree</name>
+	<cmt>00003</cmt>
+	<desc>00003</desc>
+	<sym>Waypoint</sym>
+	<extensions><gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"><gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode></gpxx:WaypointExtension></extensions>
+</wpt>
+<wpt lat="-21.9271734" lon="27.3122067">
+	<name>Serule</name>
+	<cmt>00001</cmt>
+	<desc>00001</desc>
+	<sym>Waypoint</sym>
+	<extensions><gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"><gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode></gpxx:WaypointExtension></extensions>
+</wpt>
+<wpt lat="-21.1645628824612" lon="27.5083494186401">
+	<name>Francistown</name>
+	<src>Google Map</src>
+	<fix>2d</fix>
+</wpt>
+<wpt lat="-24.6612923622244" lon="25.9044742584229">
+	<name>Gaborone</name>
+	<src>Google Map</src>
+	<fix>2d</fix>
+</wpt>
 <trk>
 	<name>2009-10-01 401102</name>
 	<trkseg>
